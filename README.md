@@ -33,19 +33,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Me chamo Taylan, sou brasileiro e gosto muito de design, música e de desenhar.. <strong> Tenho interesse na área de Programação Web. </strong>. <br>
+  Atualmente estou aprendendo a usar novas linguagens de programação.
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: ** Impactar positivamente o mundo.**
 </p>
 
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+  💼 Ferramentas:  **Word, Excel, PowerPoint e diversos aplicativos de edição mobile.**
 
 
 <p align="left">
