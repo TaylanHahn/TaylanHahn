@@ -39,16 +39,16 @@
 
 <p align="left">
  
-  🦄 Objetivo: ** Impactar positivamente o mundo.**
+  🦄 Objetivo: Impactar positivamente o mundo.
 </p>
 
 <p align="left">
 </p>
 
-  💼 Ferramentas:  **Word, Excel, PowerPoint e diversos aplicativos de edição mobile.**
+  💼 Ferramentas: Word, Excel, PowerPoint e diversos aplicativos de edição mobile.
 
 
 <p align="left">
-  💌 Navegue à vontade pelo perfil.
+  💌 Navegue à vontade pelo meu perfil.
 </p>
 
