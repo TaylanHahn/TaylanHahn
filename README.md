@@ -18,13 +18,7 @@
 
 
 
-<a href="https://github.com/TaylanHahn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true" /></a> 
-
-
-
-
-
-</img>
+<a href="https://github.com/TaylanHahn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"> </img> </a> 
 
 </div>
 
