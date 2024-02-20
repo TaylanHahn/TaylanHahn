@@ -1,8 +1,8 @@
-<img src="coding.png">
+<img src="">
 
 ## Olá, galera! Estou cursando Programação Web Full-Stack no IOS.
 
-### Tecnologias que estou aprendendo:
+### Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,7 +11,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Encontre-me:
+### Encontre-me
 
 <div>
   <!-- Work Links -->
@@ -31,15 +31,16 @@
   </a>
 </div>
 
-<br><br><br>
+<br><br>
 <a href="https://github.com/TaylanHahn/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"></img>
 </a> 
 
 
-<br> <br>
+<br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="400px" align="right">
+<br>
 
 <p align="left"> 
   Me chamo Taylan, sou brasileiro e gosto muito de design, música e de desenhar.. <strong> Tenho interesse na área de Programação Web. </strong>. <br>
@@ -60,6 +61,9 @@
 <p align="left">
   💜 Navegue à vontade pelo meu perfil.
 </p>
+<br>
+
+### Stats
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taylanhahn&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taylanhahn&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taylanhahn&theme=tokyonight) |
 | :-: | :-: | :-: |
