@@ -48,7 +48,7 @@
 
 <p align="left">
  
-  🦄 Objetivo: Construir um mundo melhor com códigos.
+  🎯 Objetivo: Construir um mundo melhor com códigos.
 </p>
 
 <p align="left">
@@ -58,7 +58,7 @@
 
 
 <p align="left">
-  💌 Navegue à vontade pelo meu perfil.
+  💜 Navegue à vontade pelo meu perfil.
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taylanhahn&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taylanhahn&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taylanhahn&theme=tokyonight) |
