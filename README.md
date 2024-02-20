@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/taylanhahn/">
-<img src="taylanhahn.gif">
+<img src="taylanhahngif.gif">
 </a>
 
 ## Olá, galera! Estou cursando Programação Web Full-Stack no IOS.
