@@ -45,8 +45,8 @@
 <br>
 
 <p align="left"> 
-  Me chamo Taylan, sou brasileiro e gosto muito de design, música e de desenhar.. <strong> Tenho interesse na área de Programação Web. </strong>. <br>
-  Atualmente estou aprendendo a usar novas linguagens de programação.
+  Me chamo Taylan, sou brasileiro e gosto muito de design, música e de desenhar.<strong> Tenho maior interesse na área de Desenvolvimento Web. </strong>. <br>
+  Estou aprendendo a usar novas linguagens de programação, no momento focado em frontend e logo para backend.
 </p>
 
 <p align="left">
