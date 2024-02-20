@@ -1,4 +1,6 @@
-<img src="">
+<a href="https://www.linkedin.com/in/taylanhahn/">
+<img src="taylanhahn.gif">
+</a>
 
 ## Olá, galera! Estou cursando Programação Web Full-Stack no IOS.
 
