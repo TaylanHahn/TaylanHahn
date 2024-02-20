@@ -3,24 +3,35 @@
 ## Olá, galera! Estou cursando Programação Web Full-Stack no IOS.
 
 ### Tecnologias que estou aprendendo:
-![image](https://github.com/TaylanHahn/TaylanHahn/assets/146947181/b3ae8f33-8307-48e3-8293-8215a836cf1e)
-![image](https://github.com/TaylanHahn/TaylanHahn/assets/146947181/97a8f778-fb53-4818-ad21-b57f378338e6)
+![HTML5](https://img.shields.io/badge/html5-orange.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ### Encontre-me:
-![image](https://github.com/TaylanHahn/TaylanHahn/assets/146947181/f7028d6f-91ec-44bf-9cf0-5b0a04d16fd3)
-![image](https://github.com/TaylanHahn/TaylanHahn/assets/146947181/83763b65-9855-4c1f-a8a1-fd7fc797baca)
-![image](https://github.com/TaylanHahn/TaylanHahn/assets/146947181/e0546c7f-6454-4bb7-b18b-a2d78e069d2f) 
 
-</img>
+<div align="center">
+<a href="https://www.linkedin.com/in/taylanhahn/" target="_blank">
+  <img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
-<div align="center"
+<a href="https://www.linkedin.com/in/taylanhahn/">
+  <img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-
-
-<a href="https://github.com/TaylanHahn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"> </img> </a> 
+<a href="mailto:taylan.hahn@gmail.com">
+  <img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
+
+<br><br><br>
+<a href="https://github.com/TaylanHahn/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"></img>
+</a> 
+
 
 <br> <br>
 
