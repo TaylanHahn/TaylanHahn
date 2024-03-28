@@ -2,7 +2,8 @@
 <img src="taylanhahngif.gif">
 </a>
 
-## Olá, galera! Acesse meu portfólio clicando acima. 
+## Olá, galera! 
+### Acesse meu portfólio clicando no GIF acima. 
 
 ### Linguagens que estou aprendendo
 
