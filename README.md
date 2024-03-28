@@ -2,7 +2,7 @@
 <img src="taylanhahngif.gif">
 </a>
 
-## Olá, galera! Estou cursando Programação Web Full-Stack no IOS.
+## Olá, galera! Acesse meu portfólio clicando acima. 
 
 ### Linguagens que estou aprendendo
 
