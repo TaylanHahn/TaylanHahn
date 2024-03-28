@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/taylanhahn/">
+<a href="https://taylanhahn.github.io/portfolioTaylan/">
 <img src="taylanhahngif.gif">
 </a>
 
