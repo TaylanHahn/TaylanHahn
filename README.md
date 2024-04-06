@@ -1,4 +1,4 @@
-<a href="https://taylanhahn.github.io/portfolioTaylan/">
+<a href="https://taylanhahn.github.io/TaylanPortfolio/#">
 <img src="taylanhahngif.gif">
 </a>
 
