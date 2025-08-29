@@ -7,7 +7,7 @@
 ### Acesse meu portfólio clicando no GIF acima. 
 </div>
 
-# Taylan Hahn - 24 anos 🇧🇷 <br>
+## Taylan Hahn - 24 anos 🇧🇷 <br>
 <p align="left"> 
   <strong> - Cursando Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS -Instituto da Oportunidade Social.<br>
