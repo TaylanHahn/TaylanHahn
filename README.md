@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### Acesse meu portfólio clicando no GIF acima. 
+<strong> Acesse meu portfólio clicando no GIF acima. </strong>
 </div>
 
 ## Taylan Hahn - 24 anos 🇧🇷 <br>
