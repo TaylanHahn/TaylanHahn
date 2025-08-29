@@ -50,9 +50,9 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="305px" max-width="405px" width="400px" align="right">
-<br>
+<br><br>
 
-### Taylan Hahn - 24 anos - brasileiro 🇧🇷 <br>
+### Taylan Hahn - 24 anos 🇧🇷 <br>
 <p align="left"> 
   <strong> - Cursando Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS -Instituto da Oportunidade Social.<br>
