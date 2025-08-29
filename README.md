@@ -58,7 +58,7 @@
 
 ### Taylan Hahn - 24 anos - brasileiro 🇧🇷 <br>
 <p align="left"> 
-  <strong> - Curso Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
+  <strong> - Cursando Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS -Instituto da Oportunidade Social.<br>
   - Foco em aprender linguagens de programação e frameworks para desenvolver sistemas e aplicações.<br>
 </p>
