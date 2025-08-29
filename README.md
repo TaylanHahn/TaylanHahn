@@ -2,9 +2,26 @@
 <img src="taylanhahngif.gif">
 </a>
 
-# Olá, galera! 
+<div align="center">
+  
 ## Acesse meu portfólio clicando no GIF acima. 
+</div>
 
+## Taylan Hahn - 24 anos 🇧🇷 <br>
+<p align="left"> 
+  <strong> - Cursando Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
+  - Formado em Desenvolvimento Web Full-Stack no IOS -Instituto da Oportunidade Social.<br>
+  <strong> - Foco em aprender linguagens de programação e frameworks para desenvolver sistemas e aplicações.</strong><br>
+  - Também possuo habilidades em web design e o uso de ferramentas.<br>
+</p>
+
+<p align="left">🎯 Objetivo maior: Cooperar para um mundo melhor com códigos!</p>
+
+<p align="left">💜 Navegue à vontade pelo meu perfil.</p>
+<br>
+
+<div align="center">
+  
 ### Linguagens de Programação
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -47,24 +64,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"></img>
 </a> 
 
-
-<br>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="305px" max-width="405px" width="400px" align="right">
-<br><br>
-
-### Taylan Hahn - 24 anos 🇧🇷 <br>
-<p align="left"> 
-  <strong> - Cursando Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
-  - Formado em Desenvolvimento Web Full-Stack no IOS -Instituto da Oportunidade Social.<br>
-  <strong> - Foco em aprender linguagens de programação e frameworks para desenvolver sistemas e aplicações.</strong><br>
-  - Também possuo habilidades em web design e o uso de ferramentas.<br>
-</p>
-
-<p align="left">🎯 Objetivo maior: Cooperar para um mundo melhor com códigos!</p>
-
-<p align="left">💜 Navegue à vontade pelo meu perfil.</p>
-<br>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taylanhahn/taylanhahn/output/github-contribution-grid-snake-dark.svg">
