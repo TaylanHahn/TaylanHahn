@@ -56,25 +56,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="305px" max-width="405px" width="400px" align="right">
 <br>
 
+### Taylan Hahn - 24 anos - brasileiro 🇧🇷 <br>
 <p align="left"> 
-  Me chamo Taylan, sou brasileiro e gosto muito de design, música e de desenhar.<strong> Tenho maior interesse na área de Desenvolvimento Web. </strong> <br>
-  Estou aprendendo a usar novas linguagens de programação, para frontend e backend.
+  <strong> - Curso Sistemas para Internet no IFRS - Instituto Federal do Rio Grande do Sul.</strong><br>
+  - Formado em Desenvolvimento Web Full-Stack no IOS -Instituto da Oportunidade Social.<br>
+  - Foco em aprender linguagens de programação e frameworks para desenvolver sistemas e aplicações.<br>
 </p>
 
-<p align="left">
- 
-  🎯 Objetivo: Construir um mundo melhor com códigos.
-</p>
+<p align="left">🎯 Objetivo maior: Cooperar para um mundo melhor com códigos!</p>
 
-<p align="left">
-</p>
-
-  💼 Ferramentas: Word, Excel, PowerPoint e diversos aplicativos de edição mobile.
-
-
-<p align="left">
-  💜 Navegue à vontade pelo meu perfil.
-</p>
+<p align="left">💜 Navegue à vontade pelo meu perfil.</p>
 <br>
 
 <picture>
