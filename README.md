@@ -1,6 +1,6 @@
 <a href="https://taylanhahn.github.io/TaylanPortfolio/">
 <img src="taylanhahngif.gif">
-</a>
+</a> 
 
 <div align="center">
   
