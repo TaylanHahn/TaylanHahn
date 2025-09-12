@@ -15,7 +15,7 @@
   - Também possuo habilidades em web design e o uso de ferramentas.<br>
 </p>
 
-<p align="left">🎯 Objetivo maior: Cooperar para um mundo melhor com códigos!</p>
+<p align="left">🎯 Objetivo maior: Usar códigos em cooperação para um mundo melhor!</p>
 
 <p align="left">💜 Navegue à vontade pelo meu perfil.</p>
 <br>
