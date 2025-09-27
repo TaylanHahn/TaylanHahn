@@ -1,7 +1,6 @@
 <a href="https://taylanhahn.github.io/TaylanPortfolio/">
 <img src="taylanhahngif.gif">
 </a> 
-
 <div align="center">
   
 <strong> Acesse meu portfólio clicando no GIF acima. </strong>
