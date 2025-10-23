@@ -6,7 +6,7 @@
 <strong> Acesse meu portfólio clicando no GIF acima. </strong>
 </div>
 
-## Taylan Hahn 🇧🇷 <br>
+## Taylan Hahn Fernandes 🇧🇷 <br>
 <p align="left"> 
   <strong> - Cursando Sistemas para Internet no IFRS (Instituto Federal do Rio Grande do Sul)</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS (Instituto da Oportunidade Social)<br>
@@ -63,17 +63,8 @@
 </div>
 
 <br><br>
-<a href="https://github.com/TaylanHahn/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"></img>
-</a> 
+![TaylanHahn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taylanhahn/taylanhahn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taylanhahn/taylanhahn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/taylanhahn/taylanhahn/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
 
 ### Stats
 
