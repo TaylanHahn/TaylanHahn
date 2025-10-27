@@ -63,7 +63,9 @@
 </div>
 
 <br><br>
-![TaylanHahn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/TaylanHahn/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=dark&hide_border=true"></img>
+</a> 
 </div>
 
 ### Stats
