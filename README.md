@@ -1,5 +1,5 @@
 <a href="https://taylanhahn.github.io/TaylanPortfolio/">
-<img src="taylanhahngif.gif">
+<img src="taylanhahn.gif">
 </a> 
 <div align="center">
   
