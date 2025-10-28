@@ -59,14 +59,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=midnight-purple&hide_border=true"></img>
 </a> 
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/TaylanHahn">
-    <img src="https://github-readme-stats.vercel.app/api?username=TaylanHahn&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&layout=compact"></img>
-  </a>
 
-  <a href="https://github.com/TaylanHahn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaylanHahn&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></img>
-  </a>
-</div>
 
