@@ -3,7 +3,7 @@
   <strong> - Cursando Sistemas para Internet no IFRS (Instituto Federal do Rio Grande do Sul)</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS (Instituto da Oportunidade Social)<br>
   <strong> - Foco em aprender linguagens de programação e frameworks para desenvolver sistemas e aplicações.</strong><br>
-  - Também possuo habilidades em web design e o uso de ferramentas.<br>
+  - Também possuo habilidades em web design e o uso de ferramentas relacionadas.<br>
 </p>
 
 <p align="left">🎯 Objetivo maior: Usar códigos em cooperação para um mundo melhor!</p>
