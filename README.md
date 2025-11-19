@@ -56,7 +56,7 @@
 
 <br><br>
 <a href="https://github.com/TaylanHahn/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHahn&layout=compact&theme=midnight-purple&hide_border=true"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanHah&layout=compact&theme=midnight-purple&hide_border=true"></img>
 </a> 
 </div>
 
