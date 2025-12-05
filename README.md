@@ -67,7 +67,7 @@
 
 ---
 
-### Contatos
+### 📫 Contatos
 <div>
   <!-- Work Links -->
   <a href="https://www.linkedin.com/in/taylanhahn/" target="_blank">
