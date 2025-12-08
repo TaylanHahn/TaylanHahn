@@ -46,6 +46,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Top Langs](https://raw.githubusercontent.com/TaylanHahn/my-github-stats/main/stats.svg)
+
 --- 
 
 ### 🛠️ Ferramentas 
