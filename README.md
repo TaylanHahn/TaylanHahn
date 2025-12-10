@@ -1,4 +1,3 @@
-## Taylan Hahn 🇧🇷 <br>
 <p align="left"> 
   <strong> - Cursando Sistemas para Internet no IFRS (Instituto Federal do Rio Grande do Sul)</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS (Instituto da Oportunidade Social)<br>
