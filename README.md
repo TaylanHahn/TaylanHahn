@@ -50,8 +50,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-![Top Langs](https://raw.githubusercontent.com/TaylanHahn/my-github-stats/main/stats.svg)
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TaylanHahn/my-github-stats/main/stats.svg" alt="Top Langs">
+</div>
 
 --- 
 
