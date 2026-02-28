@@ -2,7 +2,7 @@
 <p align="left"> 
   <strong> - Cursando Sistemas para Internet no IFRS (Instituto Federal do Rio Grande do Sul)</strong><br>
   - Formado em Desenvolvimento Web Full-Stack no IOS (Instituto da Oportunidade Social)<br>
-  - Certificado no <i>Bootcamp CI&T e dio.me - Backend com JAVA & AWS</i><br>
+  - Certificado no <i>Bootcamp CI&T e dio.me | Backend com JAVA & AWS</i><br>
   <strong> - Foco em aprender linguagens de programação e frameworks para desenvolver sistemas e aplicações.</strong><br>
   - Também possuo habilidades em web design e o uso de ferramentas relacionadas.<br>
 </p>
